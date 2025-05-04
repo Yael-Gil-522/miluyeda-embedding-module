@@ -1,0 +1,5 @@
+chromadb
+nltk
+sentence-transformers
+python-docx
+PyMuPDF
